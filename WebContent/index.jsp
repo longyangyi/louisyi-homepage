@@ -34,7 +34,7 @@
 		</p>
 		
 		<p align=right>
-			<a href="index.files/audio.mp3"><span style='font-size: 19pt'>试音</span></a>
+			<a href="index.files/audio.mp3" target="_blank"><span style='font-size: 19pt'>试音</span></a>
 		</p>
 
 		<p>
